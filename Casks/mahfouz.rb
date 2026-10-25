@@ -1,8 +1,8 @@
 cask "mahfouz" do
-  version "0.15.0"
-  sha256 "9b476ba37e633d6a907b3c85a2b7cfd719b8295759c34aed7c5d5289a296e36c"
+  version "0.16.0"
+  sha256 "7ed0f5c201688b2df582871a4a80b2e91e3c4278a51d9ce7f10e843d0dc172f0"
 
-  url "https://github.com/mahfouz-app/homebrew-tap/releases/download/mahfouz-v0.15.0/Mahfouz_#{version}_aarch64.dmg"
+  url "https://github.com/mahfouz-app/homebrew-tap/releases/download/mahfouz-v0.16.0/Mahfouz_#{version}_aarch64.dmg"
   name "Mahfouz"
   desc "Cross-platform Markdown PKM"
   homepage "https://mahfouz.app"
